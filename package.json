@@ -1,0 +1,22 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "A practice electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "my-electron-app"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "Jeanne Allen",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "23.3.13"
+  }
+}
